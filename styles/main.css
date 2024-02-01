@@ -937,8 +937,7 @@ p {
   width: -moz-fit-content;
   width: fit-content;
   color: hsl(var(--bg-color-reverse));
-  font-family: var(--logo-font-family);
-  font-size: 2rem;
+  font-size: 0rem;
   margin: 0;
 }
 
