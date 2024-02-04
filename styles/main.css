@@ -3427,10 +3427,10 @@ html[dir=rtl] .has-ultimate-tooltip .ultimate-tooltip-arrow {
 
   .hero__imgLayer:first-of-type::before {
     bottom: 0;
-    height: 80%;
-    width: 80%;
+    height: 100%;
+    width: 100%;
     background-color: hsl(var(--main-color-one));
-    border-radius: 50%;
+    /* border-radius: 50%; */
   }
 
   html[dir=ltr] .hero__imgLayer:first-of-type::before {
